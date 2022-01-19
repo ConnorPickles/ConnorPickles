@@ -4,8 +4,6 @@ I'm Connor, a 4th/5th year Computer Science student at the University of Victori
 
 Currently looking for work as a Game Developer / Game Designer!
 
-<br />
-
 ### Socials:
 
 [<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
