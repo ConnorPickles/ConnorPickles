@@ -4,7 +4,7 @@ I'm Connor, a 4th/5th year Computer Science student at the University of Victori
 
 Currently looking for work as a Game Developer / Game Designer!
 
-### Socials:
+### Socials
 
 [<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="steam" width="32px" src="https://img.icons8.com/fluency/48/000000/steam.png" />][steam]
@@ -14,7 +14,7 @@ Currently looking for work as a Game Developer / Game Designer!
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="vs code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="golang" width="32px" src="https://img.icons8.com/color/48/000000/golang.png" />
@@ -31,6 +31,14 @@ Currently looking for work as a Game Developer / Game Designer!
 <img align="left" alt="github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="gitlab" width="32px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
 
+<br />
+<br />
+
+---
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [blog]: https://connorpickles.github.io
 [linkedin]: https://www.linkedin.com/in/connor-pickles-49a391133/
