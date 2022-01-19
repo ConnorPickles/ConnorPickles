@@ -49,7 +49,7 @@ Currently looking for work as a Game Developer / Game Designer!
 
 ### Spotify Playing
 
-[![Spotify](https://cpickles.vercel.app/api/spotify)](https://open.spotify.com/user/seapickles98)
+[<img src="https://novatorem-lovat-mu.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/seapickles98)
 
 [blog]: https://connorpickles.github.io
 [linkedin]: https://www.linkedin.com/in/connor-pickles-49a391133/
