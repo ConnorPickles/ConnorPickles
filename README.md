@@ -40,6 +40,12 @@ Currently looking for work as a Game Developer / Game Designer!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### Spotify Playing
+
+[![Spotify](https://cpickles.vercel.app/api/spotify)](https://open.spotify.com/user/seapickles98)
+
 [blog]: https://connorpickles.github.io
 [linkedin]: https://www.linkedin.com/in/connor-pickles-49a391133/
 [steam]: https://steamcommunity.com/id/seapickles/
