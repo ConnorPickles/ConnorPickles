@@ -18,6 +18,7 @@ Currently looking for work as a Game Developer / Game Designer!
 
 ### Languages and Tools:
 
+<img align="left" alt="vs code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="golang" width="32px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -31,7 +32,6 @@ Currently looking for work as a Game Developer / Game Designer!
 <img align="left" alt="git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="gitlab" width="32px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
-<img align="left" alt="vs code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 
 
 [blog]: https://connorpickles.github.io
