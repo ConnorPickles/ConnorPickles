@@ -38,6 +38,11 @@ Currently looking for work as a Game Developer / Game Designer!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Made Caving More Annoying, and it’s Brilliant](https://connorpickles.github.io//gaming/Minecraft-Made-Caving-More-Annoying/)
+- [Metroid Dread Isn’t Perfect](https://connorpickles.github.io//gaming/Metroid-Dread-Isn't-Perfect/)
+- [Video Presentation](https://connorpickles.github.io//honors%20project/video-explanation/)
+- [Wrapping Up](https://connorpickles.github.io//honors%20project/wrapping-up/)
+- [Pdal Predicament](https://connorpickles.github.io//honors%20project/pdal-predicament/)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://connorpickles.github.io
