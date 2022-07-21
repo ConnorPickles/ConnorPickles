@@ -50,7 +50,7 @@ Currently working as a Gameplay Engineer at [Kabam Games](https://kabam.com)!
 
 ### Spotify Playing
 
-[![Spotify](https://novatorem-lovat-mu.vercel.app/api/spotify)](https://open.spotify.com/user/seapickles98)
+[![Spotify](https://novatorem-lovat-mu.vercel.app/api/spotify)](https://open.spotify.com/user/seapicklez)
 
 [blog]: https://connorpickles.github.io
 [linkedin]: https://www.linkedin.com/in/connor-pickles-49a391133/
