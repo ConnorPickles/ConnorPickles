@@ -2,7 +2,7 @@
 
 I'm Connor, a 4th/5th year Computer Science student at the University of Victoria. I mainly use GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
 
-Currently looking for work as a Game Developer / Game Designer!
+Currently working as a Gameplay Engineer at [Kabam Games](https://kabam.com)!
 
 ### Socials
 
@@ -17,6 +17,7 @@ Currently looking for work as a Game Developer / Game Designer!
 ### Languages and Tools
 
 <img align="left" alt="vs code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="unity" width="32px" src="https://img.icons8.com/color/48/000000/unity.png" />
 <img align="left" alt="golang" width="32px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="java" width="32px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
