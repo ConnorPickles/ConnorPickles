@@ -1,8 +1,8 @@
 ## Hello!
 
-I'm Connor, a 4th/5th year Computer Science student at the University of Victoria. I mainly use GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
+I'm Connor, a Computer Science student at the University of Victoria who is graduating in Fall 2022. I mainly use GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
 
-Currently working as a Gameplay Engineer at [Kabam Games](https://kabam.com)!
+Currently looking for work!
 
 ### Socials
 
