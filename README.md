@@ -1,8 +1,6 @@
 ## Hello!
 
-I'm Connor, a Computer Science student at the University of Victoria who is graduating in Fall 2022. I mainly use GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
-
-Currently looking for work!
+I'm Connor, a Computer Science grad from University of Victoria currently working at Blackbird Interactive as an Associate Programmer. I mainly used GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
 
 ### Socials
 
