@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Connor, a Computer Science grad from University of Victoria currently working at Blackbird Interactive as an Associate Programmer. I mainly used GitHub for schoolwork so most of my repos are private, but you can check out my [blog] where I write about tech and video games.
+I'm Connor, a Computer Science grad from University of Victoria with 5 years experience in the games industry. I mainly used GitHub for schoolwork so most of my repos are private, but I have a couple side projects public here. Take a look!
 
 ### Socials
 
